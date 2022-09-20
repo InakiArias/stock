@@ -6,22 +6,6 @@
     padding: 0;
     margin: 0;
 
-    --colorMainGradiente: rgb(9, 201, 185);
-    --colorHoverBoton: rgb(10, 207, 214);
-
-    --colorBotonTarjetas: rgb(183, 255, 158);
-    --colorFondoHeaderTarjeta: rgb(33, 68, 255);
-
-    --colorFondoBotonNavegar: rgb(49, 49, 49);
-    
-    --colorBotonModificar: rgb(255, 185, 4);
-    
-    --colorFondoBotonBusqueda-RGB: 9, 201, 185;
-    --colorFondoBotonBusqueda: rgb(var(--colorFondoBotonBusqueda-RGB));
-
-    --colorFondoBotonNuevo-RGB: 67, 200, 20;
-    --colorFondoBotonNuevo: rgb(var(--colorFondoBotonNuevo-RGB));
-
     /*--colorFondoInterno: white;
     --colorFondoSecundario: rgb(0, 23, 128);
     --colorFuenteTabla: white;*/
